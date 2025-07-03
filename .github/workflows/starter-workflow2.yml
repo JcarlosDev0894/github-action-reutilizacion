@@ -7,4 +7,4 @@ on:
   workflow_dispatch:
 jobs:
   call-workflow-in-local-repo:
-    uses: ./.github/workflows/reusable-workflow.yml
+    uses: ./.github/workflows/reusable-workflow3.yml
